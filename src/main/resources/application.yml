@@ -1,0 +1,7 @@
+elasticsearch:
+  config:
+    host: service001.mzvzm.com
+    port: 9200
+    scheme: http
+    username: root
+    password: 123
